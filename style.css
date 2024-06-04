@@ -1,0 +1,152 @@
+.navbar{
+    background-color: #f7eee6 !important;
+    display: flex;
+    /* justify-content: space-between; */
+    /* padding: 10px 10px; */
+
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+    .navbar-brand{
+        font-weight: bold;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+.active{
+    color: #d42600 !important;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0 10px;
+}
+
+.nav-link-1{
+    color: black;
+}
+
+.nav-link-2{
+    color: black;
+    padding: 0 10px;
+}
+
+.btn{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: none;
+    padding:0 0 20px 0;
+}
+
+.content h4{
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* padding: 0 0 800px 70px; */
+    
+}
+
+
+.content{
+    background: url('e5b185987d844dperf.mp4');
+    /* padding: 390px; */
+    display: flex;
+    /* justify-content: space-between; */
+    margin: 450px 0 0 70px;
+}
+
+.SNW{
+    margin: 0 40px 25px  20px;
+    height: 70px;
+    width: 180px;
+    border-radius: 40px;
+    background-color: #e9b1d1;
+    color: white;
+    border: 2px solid white;
+
+    
+}
+
+/* new styles */
+.banner {
+    position: relative;
+    height: 500px;
+  }
+  
+  .banner-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    z-index: -1;
+  }
+  
+  .banner-video video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 100%;
+    min-height: 100%;
+  }
+  
+  .banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 1;
+    color: #fff;
+  }
+  
+  .banner-text h1 {
+    font-size: 3rem;
+    margin-top: -90px;
+  }
+  
+  .banner-text p {
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+  }
+
+
+#background-video {
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+ }
+
+.div p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.cococ{
+    margin: 0 40px 30px  20px;
+    /* justify-content: center; */
+}
+
+.shimmy{
+    height: 600px;
+    width: 700px;  
+    margin: 120px 50px  0; 
+}
+
+.laundry{
+    margin: 0 40px 30px  20px;
+    
+}
+.Block{
+    height: 600px;
+    width: 700px;
+    margin: 120px 0  0;
+}
